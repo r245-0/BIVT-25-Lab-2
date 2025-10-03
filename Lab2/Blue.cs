@@ -82,6 +82,8 @@ namespace Lab2
                 a = b - a;
 
             }
+            answer = s;
+
 
             
             // end
